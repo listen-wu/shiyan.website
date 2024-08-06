@@ -170,19 +170,19 @@ opacity: 1;
 }
 
 .third{
-background-image:url("pic/4.jpg");
-height:750px;
-width:100%;
+	background-image:url("pic/4.jpg");
+	height:750px;
+	width:100%;
 }
 
 .title2{
-margin-left:auto;
-margin-right:auto;
-height:170px;
-width:70%;
-text-align:center;
-border: 1px solid;
-border-color:rgba(0,0,0,0);
+	margin-left:auto;
+	margin-right:auto;
+	height:170px;
+	width:70%;
+	text-align:center;
+	border: 1px solid;
+	border-color:rgba(0,0,0,0);
 }
 
 #big{
@@ -228,7 +228,7 @@ line-height:83px;
 }
 
 .zuo{
-	height:550px;
+	height:100%;
 	width:24%;
 }
 
@@ -254,8 +254,8 @@ line-height:83px;
 	overflow:hidden;
 	margin-top: 25px;
 	margin-left: 25px;
-	width:300px;
-	height:300px;
+	width:100%;
+	height:70%;
 	border-radius: 50%;
 	background-color: white;
 }
