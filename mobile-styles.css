@@ -12,7 +12,7 @@ a:hover{
 }
 
 body{
-	width: 600px;
+	width: 100%;
 	background-color: white;
 }
 
@@ -105,11 +105,11 @@ opacity: 1;
 }
 
 .content1{
-	margin-top:150px;
+	margin-top:100px;
 	margin-left:auto;
 	margin-right:auto;
 	height:600px;
-	width:60%;
+	width:80%;
 }
 
 .jieshao{
@@ -229,7 +229,7 @@ line-height:83px;
 
 .zuo{
 	height:100%;
-	width:24%;
+	width:20%;
 }
 
 .circle{
@@ -299,7 +299,7 @@ border-color:rgba(0,0,0,0);
 	margin-right:auto;
 	background-image: url("pic/7.jpg");
 	height:500px;
-	width:60%;
+	width:80%;
 }
 
 .photo3{
