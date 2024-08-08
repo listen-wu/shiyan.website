@@ -50,6 +50,7 @@ opacity: 1;
 
 .photo1{
 	margin-top: 30px;
+	margin-left: 50px;
 	float:left;
 	height: 100%;
 	width:15%;
@@ -95,6 +96,22 @@ opacity: 1;
 	color:rgb(245,245,245);
 }
 
+#headline3{
+	margin-top:50px;
+	margin-left:5%;
+	letter-spacing:1px;
+	font-size:52px;
+	color:rgb(245,245,245);
+}
+
+#headline4{
+	margin-left:6%;
+	line-height:43px;
+	letter-spacing:1px;
+	font-size:25px;
+	color:rgb(245,245,245);
+}
+
 .second{
 	margin-left:auto;
 	margin-right:auto;
@@ -122,7 +139,7 @@ opacity: 1;
 
 #gongsiming{
 	font-size: 36px;
-	line-height:70px;
+	line-height:50px;
 	color:black;
 	text-indent: 1em;
 }
@@ -141,13 +158,13 @@ opacity: 1;
 
 #gongsijieshao3{
 	font-size:19px;
-	line-height:22px;
+	line-height:20px;
 	text-indent: 2em;
 }
 
 #gongsijieshao4{
 	font-size:19px;
-	line-height:22px;
+	line-height:20px;
 	text-indent: 2em;
 }
 
@@ -301,7 +318,7 @@ border-color:rgba(0,0,0,0);
 	float:left;
 	height:73%;
 	width:35%;
-	margin-top: 5%;
+	margin-top: 5.5%;
 	margin-left: 5%;
 }
 
@@ -315,7 +332,7 @@ box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.15);
 	float:right;
 	height:73%;
 	width:52%;
-	margin-top: 5%;
+	margin-top: 5.5%;
 	margin-right: 5%;
 	border: 2px dashed white;
 }
