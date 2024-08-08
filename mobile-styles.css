@@ -171,7 +171,7 @@ opacity: 1;
 
 .third{
 	background-image:url("pic/4.jpg");
-	height:700px;
+	height:600px;
 	width:100%;
 }
 
@@ -221,7 +221,7 @@ line-height:83px;
 .content2{
 	margin-left:auto;
 	margin-right:auto;
-	height:550px;
+	height:450px;
 	width:90%;
 	display: flex;
 	justify-content: space-around;
@@ -229,7 +229,7 @@ line-height:83px;
 
 .zuo{
 	float: left;
-	height:550px;
+	height:450px;
 	width:23%;
 }
 
@@ -274,7 +274,7 @@ line-height:83px;
 }
 
 .fifth{
-	height:750px;
+	height:650px;
 	width:100%;
 	background-image: url("pic/5.jpg");
 }
@@ -293,8 +293,8 @@ border-color:rgba(0,0,0,0);
 	margin-left:auto;
 	margin-right:auto;
 	background-image: url("pic/7.jpg");
-	height:66.6%;
-	width:80%;
+	height:450px;
+	width:85%;
 }
 
 .photo3{
