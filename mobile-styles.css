@@ -50,7 +50,7 @@ opacity: 1;
 
 .photo1{
 	margin-top: 30px;
-	margin-left: 50px;
+	margin-left: 60px;
 	float:left;
 	height: 100%;
 	width:15%;
@@ -100,15 +100,15 @@ opacity: 1;
 	margin-top:50px;
 	margin-left:5%;
 	letter-spacing:1px;
-	font-size:52px;
+	font-size:48px;
 	color:rgb(245,245,245);
 }
 
 #headline4{
 	margin-left:6%;
-	line-height:43px;
+	line-height:39px;
 	letter-spacing:1px;
-	font-size:25px;
+	font-size:21px;
 	color:rgb(245,245,245);
 }
 
