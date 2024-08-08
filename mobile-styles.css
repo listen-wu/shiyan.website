@@ -129,25 +129,25 @@ opacity: 1;
 
 #gongsijieshao{
 	font-size:19px;
-	line-height:37px;
+	line-height:33px;
 	text-indent: 2em;
 }
 
 #gongsijieshao2{
 	font-size:19px;
-	line-height:37px;
+	line-height:33px;
 	text-indent: 2em;
 }
 
 #gongsijieshao3{
 	font-size:19px;
-	line-height:26px;
+	line-height:22px;
 	text-indent: 2em;
 }
 
 #gongsijieshao4{
 	font-size:19px;
-	line-height:26px;
+	line-height:22px;
 	text-indent: 2em;
 }
 
@@ -301,8 +301,8 @@ border-color:rgba(0,0,0,0);
 	float:left;
 	height:73%;
 	width:35%;
-	margin-top: 3%;
-	margin-left: 3%;
+	margin-top: 5%;
+	margin-left: 5%;
 }
 
 .ppp3{
@@ -314,9 +314,9 @@ box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.15);
 .jieshao2{
 	float:right;
 	height:73%;
-	width:55%;
-	margin-top: 3%;
-	margin-right: 3%;
+	width:52%;
+	margin-top: 5%;
+	margin-right: 5%;
 	border: 2px dashed white;
 }
 
