@@ -79,7 +79,7 @@ opacity: 1;
 }
 
 #headline{
-	margin-top:90px;
+	margin-top:50px;
 	margin-left:5%;
 	letter-spacing:1px;
 	font-size:55px;
@@ -293,16 +293,16 @@ border-color:rgba(0,0,0,0);
 	margin-left:auto;
 	margin-right:auto;
 	background-image: url("pic/7.jpg");
-	height:450px;
+	height:400px;
 	width:85%;
 }
 
 .photo3{
 	float:left;
-	height:70%;
+	height:73%;
 	width:35%;
-	margin-top: 5%;
-	margin-left: 5%;
+	margin-top: 3%;
+	margin-left: 3%;
 }
 
 .ppp3{
@@ -313,10 +313,10 @@ box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.15);
 
 .jieshao2{
 	float:right;
-	height:70%;
+	height:73%;
 	width:55%;
-	margin-top: 5%;
-	margin-right: 5%;
+	margin-top: 3%;
+	margin-right: 3%;
 	border: 2px dashed white;
 }
 
