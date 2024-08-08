@@ -235,18 +235,18 @@ line-height:83px;
 
 .circle{
 	position: relative;
-    top: 0.03%;
+    top: 0.3%;
     border-radius: 50%;
-	height:48%;
+	height:45%;
 	width:100%;
 	background-image: url("pic/6.jpg");
 }
 
 .circle1{
 	position: relative;
-    top: 21%; 
+    top: 24%; 
     border-radius: 50%;
-	height:48%;
+	height:45%;
 	width:100%;
 	background-image: url("pic/6.jpg");
 }
@@ -279,12 +279,6 @@ line-height:83px;
 	background-image: url("pic/5.jpg");
 }
 
-.ppp3{
-height:100%;
-width:100%;
-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.15);
-}
-
 .title3{
 margin-left:auto;
 margin-right:auto;
@@ -305,18 +299,24 @@ border-color:rgba(0,0,0,0);
 
 .photo3{
 	float:left;
-	height:80%;
-	width:30%;
-	margin-top: 10%;
-	margin-left: 8%;
+	height:70%;
+	width:35%;
+	margin-top: 5%;
+	margin-left: 5%;
+}
+
+.ppp3{
+height:100%;
+width:100%;
+box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.15);
 }
 
 .jieshao2{
 	float:right;
-	height:60%;
-	width:60%;
-	margin-top: 13%;
-	margin-right: 8%;
+	height:70%;
+	width:55%;
+	margin-top: 5%;
+	margin-right: 5%;
 	border: 2px dashed white;
 }
 
